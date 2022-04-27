@@ -15,7 +15,7 @@
 <img style="margin: 10px" src="https://camo.githubusercontent.com/61e102d7c605ff91efedb9d7e47c1c4a07cef59d3e1da202fd74f4772122ca4e/68747470733a2f2f766974656a732e6465762f6c6f676f2e737667" alt="Vite" height="50" />
 <img style="margin: 10px" src="https://developer.android.com/images/cluster-illustrations/kotlin-hero.svg" alt="kotlin" height="50">
 <img style="margin: 10px" src="https://www.oracle.com/a/tech/img/rc10-java-badge-3.png" alt="java" height="50">
-<img style="margin: 10px" src=https://www.swift.org/assets/images/swift.svg" alt="swift" height="50">
+<!-- <img style="margin: 10px" src=https://www.swift.org/assets/images/swift.svg" alt="swift" height="50"> -->
    
 </div>
 <br/>
