@@ -1,5 +1,5 @@
 ## Hello,I'm QinHongYang
-   I'm a web front-end developer,
+   I'm a web developer,
 
 
 ## My Skills
